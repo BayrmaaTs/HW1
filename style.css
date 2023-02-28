@@ -1,0 +1,22 @@
+
+table,th,td{
+    border-style:solid;
+    border-collapse: collapse;
+    border-radius: 10px;
+    padding-left: 15px;
+    margin: 50px 50px 400px 300px
+
+    
+}
+th {
+    background-color: fuchsia;
+}
+td{
+    background-color:lightblue;
+}
+p{
+    font-size:100px;
+    text-align: center;
+    font-style: italic;
+    
+}
